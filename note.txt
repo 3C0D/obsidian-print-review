@@ -1,0 +1,4 @@
+Incroyable que ça ne soit pas natif dans obsidian !
+Prendre en charge tous les formats Pas que les markdown
+Menu contextuel De De la vue active Imprimez la page Imprimez la sélection 
+Amélioration possible, présentation setting Pixel ...
